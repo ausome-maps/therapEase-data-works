@@ -24,7 +24,7 @@
                 "email": "a.workstlc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "email": "abilitiesnintelligences@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -74,7 +74,7 @@
                 "email": "able_center@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -99,7 +99,7 @@
                 "email": "sped.academiadesantiago@adsti.edu.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -124,7 +124,7 @@
                 "email": "academyforablechildren@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -149,7 +149,7 @@
                 "email": "activesteps@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "email": "activithinksph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -199,7 +199,7 @@
                 "email": "aidofangels@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -224,7 +224,7 @@
                 "email": "info@alresishome.org",
                 "website": "www.alresishome.org",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -249,7 +249,7 @@
                 "email": "apextherapycenter.21@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -274,7 +274,7 @@
                 "email": "appletree.therapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -299,7 +299,7 @@
                 "email": "askaspeechietc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -324,7 +324,7 @@
                 "email": "beyondmilestonescdc@gmail.com",
                 "website": "www.beyondmilestones.ph",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -349,7 +349,7 @@
                 "email": "beyondplayfam@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -374,7 +374,7 @@
                 "email": "bmchc.cbr@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -399,7 +399,7 @@
                 "email": "kristeljoyce.cunanan.crs@ust.edu.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -424,7 +424,7 @@
                 "email": "blesslearningresources@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -449,7 +449,7 @@
                 "email": "Bremnurturingcenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -474,7 +474,7 @@
                 "email": "bridge4learningtdc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -499,7 +499,7 @@
                 "email": "bridgescdo@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -524,7 +524,7 @@
                 "email": "bridgingpotentials@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -549,7 +549,7 @@
                 "email": "brightmindsmakati@gmail.com",
                 "website": "https://www.brightmindsph.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -574,7 +574,7 @@
                 "email": "buildforfun888@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -599,7 +599,7 @@
                 "email": "buildingskills_latc@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -624,7 +624,7 @@
                 "email": "coasttherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -649,7 +649,7 @@
                 "email": "center_for_ideas@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -674,7 +674,7 @@
                 "email": "cbbinquirieshere@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -699,7 +699,7 @@
                 "email": "chattertherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -724,7 +724,7 @@
                 "email": "caretheraplayhub@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -749,7 +749,7 @@
                 "email": "childsdoor888@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -774,7 +774,7 @@
                 "email": "childrensdev@gmail.com",
                 "website": "https://bit.ly/CDICLIPA",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -799,7 +799,7 @@
                 "email": "childrens.paradise@gmail.com",
                 "website": "childrensparadise.edu.ph",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -824,7 +824,7 @@
                 "email": "learning_hub09@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -849,7 +849,7 @@
                 "email": "chrysalidestherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -874,7 +874,7 @@
                 "email": "collabgreenhills@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -899,7 +899,7 @@
                 "email": "communicare.tcc@gmail.com",
                 "website": "www.communicare-ph.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -924,7 +924,7 @@
                 "email": "reena@contour.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -949,7 +949,7 @@
                 "email": "corepotentials@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -974,7 +974,7 @@
                 "email": "core.skills.program@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -999,7 +999,7 @@
                 "email": "cornerstonetherapyhub@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -1024,7 +1024,7 @@
                 "email": "creativemindslearningandtherap@gm ail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1049,7 +1049,7 @@
                 "email": "creatrixtherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1074,7 +1074,7 @@
                 "email": "decodeitc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1099,7 +1099,7 @@
                 "email": "devhubsec@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1124,7 +1124,7 @@
                 "email": "faithluan@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -1149,7 +1149,7 @@
                 "email": "diversabilitiestherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1174,7 +1174,7 @@
                 "email": "dketherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1199,7 +1199,7 @@
                 "email": "daq_sp@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1224,7 +1224,7 @@
                 "email": "admin@dynamicpediatrictherapy.com",
                 "website": "www.dynamicpediatrictherapy.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -1249,7 +1249,7 @@
                 "email": "equaltherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1274,7 +1274,7 @@
                 "email": "estctanauan@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1299,7 +1299,7 @@
                 "email": "easyspeechtherapycenter@gmail.co m",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1324,7 +1324,7 @@
                 "email": "eladschoolofpotentials@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1349,7 +1349,7 @@
                 "email": "admin@enfuego.edu.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1374,7 +1374,7 @@
                 "email": "taclobanspeechtherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1399,7 +1399,7 @@
                 "email": "exceedabilities@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1424,7 +1424,7 @@
                 "email": "fundevmentals@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1449,7 +1449,7 @@
                 "email": "gesu.center@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1474,7 +1474,7 @@
                 "email": "goaltherapeutics@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -1499,7 +1499,7 @@
                 "email": "goals.alabang2020@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -1524,7 +1524,7 @@
                 "email": "goalscompany@gmail.com",
                 "website": "goals-partnership.weebly.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -1549,7 +1549,7 @@
                 "email": "mendoza_clm@yahoo.com",
                 "website": "http://www.goldengatelearningcenter.net/",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1574,7 +1574,7 @@
                 "email": "goodkidstherapy@gmail.com",
                 "website": "goodkidstherapy.wixsite.com/goodkidstherapyph",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1599,7 +1599,7 @@
                 "email": "goodsoiltc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1624,7 +1624,7 @@
                 "email": "growcenterph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1649,7 +1649,7 @@
                 "email": "emsamson2016@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -1674,7 +1674,7 @@
                 "email": "HandTherapyPH@gmail.com",
                 "website": "www.handtherapyph.com",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -1699,7 +1699,7 @@
                 "email": "happyhandstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1724,7 +1724,7 @@
                 "email": "happytalkerslh@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1749,7 +1749,7 @@
                 "email": "hello@hatchopen.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -1774,7 +1774,7 @@
                 "email": "havenoflearning@gmail.com",
                 "website": "",
                 "tags": "",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -1799,7 +1799,7 @@
                 "email": "hopetherapy.phil@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -1824,7 +1824,7 @@
                 "email": "healthpropmc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge"
             }
         },
         {
@@ -1849,7 +1849,7 @@
                 "email": "healthpropmc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge"
             }
         },
         {
@@ -1874,7 +1874,7 @@
                 "email": "healthpropmc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -1899,7 +1899,7 @@
                 "email": "helptherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -1924,7 +1924,7 @@
                 "email": "helpinghandscac@gmail.com",
                 "website": "helpinghandscac.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -1949,7 +1949,7 @@
                 "email": "hhptcb.externals@gmail.com",
                 "website": "helpinghandsbatangas.wixsite.com/hhptc",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -1974,7 +1974,7 @@
                 "email": "hhsanpascual@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -1999,7 +1999,7 @@
                 "email": "hopedevcenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2024,7 +2024,7 @@
                 "email": "hopespeakstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2049,7 +2049,7 @@
                 "email": "inquiries@ignitecenterph.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -2074,7 +2074,7 @@
                 "email": "ilearneducationalintervention@gmail.c om",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2099,7 +2099,7 @@
                 "email": "illccebu@yahoo.com",
                 "website": "illcphilippines.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2124,7 +2124,7 @@
                 "email": "illcadmin@illcphilippines.com",
                 "website": "www.illcphilippines.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -2149,7 +2149,7 @@
                 "email": "teachersassy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2174,7 +2174,7 @@
                 "email": "intellispeechtherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2199,7 +2199,7 @@
                 "email": "intercarelifeskillscenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2224,7 +2224,7 @@
                 "email": "info@jikfi.org",
                 "website": "jikfi.org",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2249,7 +2249,7 @@
                 "email": "jumpstart.therapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2274,7 +2274,7 @@
                 "email": "ktimeeic@gmail.com",
                 "website": "https://ktimeeic.wixsite.com/kteic",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge"
             }
         },
         {
@@ -2299,7 +2299,7 @@
                 "email": "kaleidoscopetherapycenterbats@gm ail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2324,7 +2324,7 @@
                 "email": "ralph.mirasol@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2349,7 +2349,7 @@
                 "email": "kidsinmotion.therapy@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2374,7 +2374,7 @@
                 "email": "info.kidsspot@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -2399,7 +2399,7 @@
                 "email": "kidshinelaguna@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2424,7 +2424,7 @@
                 "email": "kidspeak.avt@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2449,7 +2449,7 @@
                 "email": "kwc_kidswecare@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2474,7 +2474,7 @@
                 "email": "kidvincibletlc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2499,7 +2499,7 @@
                 "email": "kidzcopetherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2524,7 +2524,7 @@
                 "email": "launchpadtherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2549,7 +2549,7 @@
                 "email": "leapingborderstc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2574,7 +2574,7 @@
                 "email": "",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -2599,7 +2599,7 @@
                 "email": "learningladdercebu@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -2624,7 +2624,7 @@
                 "email": "learningtraincenter@gmail.com",
                 "website": "learningtraincenter.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2649,7 +2649,7 @@
                 "email": "letstalkandlearn@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2674,7 +2674,7 @@
                 "email": "lifetlcph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2699,7 +2699,7 @@
                 "email": "lifetoolstcenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge"
             }
         },
         {
@@ -2724,7 +2724,7 @@
                 "email": "listentohappiness2006@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2749,7 +2749,7 @@
                 "email": "mmylarrazabal.cdu@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2774,7 +2774,7 @@
                 "email": "littlebigstepspediatric@gmail.com",
                 "website": "littlebigstepspedi.wixsite.com/therapy",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -2799,7 +2799,7 @@
                 "email": "littlehousetherapyclinic@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2824,7 +2824,7 @@
                 "email": "littlekidshaven@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2849,7 +2849,7 @@
                 "email": "hello@magiscreative.net",
                 "website": "magiscreative.net",
                 "tags": "",
-                "sources": "healthcare=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge"
             }
         },
         {
@@ -2874,7 +2874,7 @@
                 "email": "magisrehabclinic@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -2899,7 +2899,7 @@
                 "email": "medbaytherapyandlearningcenter@ gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2924,7 +2924,7 @@
                 "email": "wearemattsmanila@gmail.com",
                 "website": "wearematts.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -2949,7 +2949,7 @@
                 "email": "wearematts@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -2974,7 +2974,7 @@
                 "email": "mychildsplacetherapycenter@gmail.c om",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -2999,7 +2999,7 @@
                 "email": "ellynnamoro@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3024,7 +3024,7 @@
                 "email": "cdc.slp@nch.doh.gov.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3049,7 +3049,7 @@
                 "email": "nibspptc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3074,7 +3074,7 @@
                 "email": "optimalskillstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -3099,7 +3099,7 @@
                 "email": "pangasinan_cts@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3124,7 +3124,7 @@
                 "email": "paslit.center@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -3149,7 +3149,7 @@
                 "email": "hello@paththerapycenter.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3174,7 +3174,7 @@
                 "email": "pathwaytherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3199,7 +3199,7 @@
                 "email": "info@peanschool.com",
                 "website": "https://peanschool.com/",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -3224,7 +3224,7 @@
                 "email": "pcmcrmd_ot@yahoo.com",
                 "website": "http://www.pcmc.gov.ph",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "healthcare=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge"
             }
         },
         {
@@ -3249,7 +3249,7 @@
                 "email": "pmhacds@gmail.com",
                 "website": "www.pmha.org.ph",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -3274,7 +3274,7 @@
                 "email": "rolette.roldan@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3299,7 +3299,7 @@
                 "email": "slingismybling@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3324,7 +3324,7 @@
                 "email": "theplayexplorerstherapycenter@gmail .com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -3349,7 +3349,7 @@
                 "email": "playiscool@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -3374,7 +3374,7 @@
                 "email": "play_matters@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3399,7 +3399,7 @@
                 "email": "playmatters.angeles@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3424,7 +3424,7 @@
                 "email": "mprd1207@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3449,7 +3449,7 @@
                 "email": "playpalscdc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -3474,7 +3474,7 @@
                 "email": "playplustherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -3499,7 +3499,7 @@
                 "email": "playtolearntherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3524,7 +3524,7 @@
                 "email": "playabilitiesiloilo@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -3549,7 +3549,7 @@
                 "email": "playfirst.therapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3574,7 +3574,7 @@
                 "email": "playspacedtc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -3599,7 +3599,7 @@
                 "email": "polikidscenterfd17@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -3624,7 +3624,7 @@
                 "email": "potentialstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3649,7 +3649,7 @@
                 "email": "inquiries.progresstherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -3674,7 +3674,7 @@
                 "email": "pracemalolos@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3699,7 +3699,7 @@
                 "email": "prumindstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3724,7 +3724,7 @@
                 "email": "roadtotalk@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -3749,7 +3749,7 @@
                 "email": "siboltherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3774,7 +3774,7 @@
                 "email": "sacdbinc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -3799,7 +3799,7 @@
                 "email": "sandboxclinic@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -3824,7 +3824,7 @@
                 "email": "skillbuilderstscorp@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -3849,7 +3849,7 @@
                 "email": "skilldiscoverytlc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -3874,7 +3874,7 @@
                 "email": "smartstepsdevtherapycenter@gmail.c om",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3899,7 +3899,7 @@
                 "email": "smartstepsbacoor@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -3924,7 +3924,7 @@
                 "email": "SpeakPlayCenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3949,7 +3949,7 @@
                 "email": "speechpathph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3974,7 +3974,7 @@
                 "email": "speechplaytc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -3999,7 +3999,7 @@
                 "email": "speechworksbatangas@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4024,7 +4024,7 @@
                 "email": "SpEdStarflight@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4049,7 +4049,7 @@
                 "email": "stellarcenterph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4074,7 +4074,7 @@
                 "email": "stepsinc.com@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4099,7 +4099,7 @@
                 "email": "steps_carmona@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4124,7 +4124,7 @@
                 "email": "stillwaters_sped@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4149,7 +4149,7 @@
                 "email": "solspeechlinic@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4174,7 +4174,7 @@
                 "email": "studypals.abc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4199,7 +4199,7 @@
                 "email": "tpreblora1978@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -4224,7 +4224,7 @@
                 "email": "sdebatangascity@sunhilledu.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4249,7 +4249,7 @@
                 "email": "superkidshub@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4274,7 +4274,7 @@
                 "email": "takestepstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -4299,7 +4299,7 @@
                 "email": "talkingturns.slp@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4324,7 +4324,7 @@
                 "email": "techniksthatwork@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4349,7 +4349,7 @@
                 "email": "ablecentermanila@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -4374,7 +4374,7 @@
                 "email": "thelearningcanvasph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4399,7 +4399,7 @@
                 "email": "thelearningspotph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -4424,7 +4424,7 @@
                 "email": "thenurturehub21@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4449,7 +4449,7 @@
                 "email": "thespotcenterdavao@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4474,7 +4474,7 @@
                 "email": "thetherapyhouseinc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP;local knowledge"
+                "sources": "sources=PAOT;PASP;local knowledge"
             }
         },
         {
@@ -4499,7 +4499,7 @@
                 "email": "thetinyhouse2019@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4524,7 +4524,7 @@
                 "email": "information@vanguard.edu.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4549,7 +4549,7 @@
                 "email": "therahealthph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4574,7 +4574,7 @@
                 "email": "therabeelearningcenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4599,7 +4599,7 @@
                 "email": "therabilitiesinc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4624,7 +4624,7 @@
                 "email": "therasouth@gmail.com",
                 "website": "therabilitiesinc.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -4649,7 +4649,7 @@
                 "email": "therabridge@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge"
             }
         },
         {
@@ -4674,7 +4674,7 @@
                 "email": "therabright@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4699,7 +4699,7 @@
                 "email": "therabuddiescdc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP;local knowledge"
+                "sources": "sources=PAOT;PASP;local knowledge"
             }
         },
         {
@@ -4724,7 +4724,7 @@
                 "email": "therachieve@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4749,7 +4749,7 @@
                 "email": "teacherdee.slp@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4774,7 +4774,7 @@
                 "email": "therahome.08@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4799,7 +4799,7 @@
                 "email": "theraliferc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4824,7 +4824,7 @@
                 "email": "sjlteamlc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -4849,7 +4849,7 @@
                 "email": "thinkthoughts@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4874,7 +4874,7 @@
                 "email": "theraplaypedia@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -4899,7 +4899,7 @@
                 "email": "theraplaypedia@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -4924,7 +4924,7 @@
                 "email": "therasensped@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4949,7 +4949,7 @@
                 "email": "theraserve2008@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4974,7 +4974,7 @@
                 "email": "chie.baterina@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -4999,7 +4999,7 @@
                 "email": "theratalk@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT;PASP"
+                "sources": "sources=PAOT;PASP"
             }
         },
         {
@@ -5024,7 +5024,7 @@
                 "email": "thinkthoughts@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -5049,7 +5049,7 @@
                 "email": "thrivetherapycenter.ph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -5074,7 +5074,7 @@
                 "email": "info@together.org.ph",
                 "website": "together.org.ph",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -5099,7 +5099,7 @@
                 "email": "tpltherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -5124,7 +5124,7 @@
                 "email": "inquiries@trailscenter.com",
                 "website": "trails.com.ph",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -5149,7 +5149,7 @@
                 "email": "inquiries@trailscenter.com",
                 "website": "trails.com.ph",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PASP"
+                "sources": "sources=PASP"
             }
         },
         {
@@ -5174,7 +5174,7 @@
                 "email": "theracareot.davao@gmail.com",
                 "website": "theracare-therapy-center.business.site",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -5199,7 +5199,7 @@
                 "email": "wiredbraintherapycenter@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=PAOT"
+                "sources": "sources=PAOT"
             }
         },
         {
@@ -5224,7 +5224,7 @@
                 "email": "takestepstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5249,7 +5249,7 @@
                 "email": "arnold23celendro@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist;physiotherapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5274,7 +5274,7 @@
                 "email": "fundamentals.pediatrictherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5299,7 +5299,7 @@
                 "email": "playsense.tc@gmail.com",
                 "website": "playsenseph.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5324,7 +5324,7 @@
                 "email": "teamworksmarbel@gmail.com",
                 "website": "teamworksph.com",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5349,7 +5349,7 @@
                 "email": "jayarrsale4180@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5374,7 +5374,7 @@
                 "email": "littlepalmormoc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5399,7 +5399,7 @@
                 "email": "kidsworldinfoandqueries@gmail.com",
                 "website": "www.kidsworldintegratedschool.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5424,7 +5424,7 @@
                 "email": "teacherashouseoflearningiloilo@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         },
         {
@@ -5449,7 +5449,7 @@
                 "email": "rehabservices_philippines2012@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "healthcare=local knowledge"
+                "sources": "sources=local knowledge"
             }
         }
     ]
