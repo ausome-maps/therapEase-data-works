@@ -24,7 +24,11 @@
                 "email": "a.workstlc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.0375928,
+                    14.52271356
+                ]
             }
         },
         {
@@ -49,7 +53,11 @@
                 "email": "abilitiesnintelligences@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.0629605,
+                    14.70916364
+                ]
             }
         },
         {
@@ -74,7 +82,11 @@
                 "email": "able_center@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.2383053,
+                    14.17767697
+                ]
             }
         },
         {
@@ -99,7 +111,11 @@
                 "email": "sped.academiadesantiago@adsti.edu.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.6034641,
+                    15.47076111
+                ]
             }
         },
         {
@@ -124,7 +140,11 @@
                 "email": "academyforablechildren@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    120.91763,
+                    13.883964
+                ]
             }
         },
         {
@@ -149,7 +169,11 @@
                 "email": "activesteps@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9283318,
+                    14.79607145
+                ]
             }
         },
         {
@@ -174,7 +198,11 @@
                 "email": "activithinksph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    120.9744771,
+                    14.22328765
+                ]
             }
         },
         {
@@ -199,7 +227,11 @@
                 "email": "aidofangels@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.8760085,
+                    14.38397588
+                ]
             }
         },
         {
@@ -224,7 +256,11 @@
                 "email": "info@alresishome.org",
                 "website": "www.alresishome.org",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.0073,
+                    14.621071
+                ]
             }
         },
         {
@@ -249,7 +285,11 @@
                 "email": "apextherapycenter.21@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.5969109,
+                    7.060880747
+                ]
             }
         },
         {
@@ -274,7 +314,11 @@
                 "email": "appletree.therapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9971946,
+                    14.63416074
+                ]
             }
         },
         {
@@ -299,7 +343,11 @@
                 "email": "askaspeechietc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.049509,
+                    14.361963
+                ]
             }
         },
         {
@@ -324,7 +372,11 @@
                 "email": "beyondmilestonescdc@gmail.com",
                 "website": "www.beyondmilestones.ph",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1455148,
+                    14.11159563
+                ]
             }
         },
         {
@@ -349,7 +401,11 @@
                 "email": "beyondplayfam@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.5960706,
+                    15.13983244
+                ]
             }
         },
         {
@@ -374,7 +430,11 @@
                 "email": "bmchc.cbr@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1915796,
+                    14.46275407
+                ]
             }
         },
         {
@@ -399,7 +459,11 @@
                 "email": "kristeljoyce.cunanan.crs@ust.edu.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.545819,
+                    16.682762
+                ]
             }
         },
         {
@@ -424,7 +488,11 @@
                 "email": "blesslearningresources@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0031097,
+                    14.64097427
+                ]
             }
         },
         {
@@ -449,7 +517,11 @@
                 "email": "Bremnurturingcenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.1243745,
+                    14.59144057
+                ]
             }
         },
         {
@@ -474,7 +546,11 @@
                 "email": "bridge4learningtdc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    120.970244,
+                    14.39681859
+                ]
             }
         },
         {
@@ -499,7 +575,11 @@
                 "email": "bridgescdo@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    124.6470194,
+                    8.468905232
+                ]
             }
         },
         {
@@ -524,7 +604,11 @@
                 "email": "bridgingpotentials@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    120.517697,
+                    14.816532
+                ]
             }
         },
         {
@@ -549,7 +633,11 @@
                 "email": "brightmindsmakati@gmail.com",
                 "website": "https://www.brightmindsph.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0284866,
+                    14.5664383
+                ]
             }
         },
         {
@@ -574,7 +662,11 @@
                 "email": "buildforfun888@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.983493,
+                    14.43731577
+                ]
             }
         },
         {
@@ -599,7 +691,11 @@
                 "email": "buildingskills_latc@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1271621,
+                    14.26410163
+                ]
             }
         },
         {
@@ -624,7 +720,11 @@
                 "email": "coasttherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.5962173,
+                    15.13155099
+                ]
             }
         },
         {
@@ -649,7 +749,11 @@
                 "email": "center_for_ideas@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0589513,
+                    14.55170707
+                ]
             }
         },
         {
@@ -674,7 +778,11 @@
                 "email": "cbbinquirieshere@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.6057972,
+                    7.082419852
+                ]
             }
         },
         {
@@ -699,7 +807,11 @@
                 "email": "chattertherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.0385531,
+                    14.67064916
+                ]
             }
         },
         {
@@ -724,7 +836,11 @@
                 "email": "caretheraplayhub@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    125.5472377,
+                    7.073046364
+                ]
             }
         },
         {
@@ -749,7 +865,11 @@
                 "email": "childsdoor888@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0105752,
+                    14.45797509
+                ]
             }
         },
         {
@@ -774,7 +894,11 @@
                 "email": "childrensdev@gmail.com",
                 "website": "https://bit.ly/CDICLIPA",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.161647,
+                    13.940044
+                ]
             }
         },
         {
@@ -799,7 +923,11 @@
                 "email": "childrens.paradise@gmail.com",
                 "website": "childrensparadise.edu.ph",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.9273462,
+                    10.36931325
+                ]
             }
         },
         {
@@ -824,7 +952,11 @@
                 "email": "learning_hub09@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1275225,
+                    14.63946953
+                ]
             }
         },
         {
@@ -849,7 +981,11 @@
                 "email": "chrysalidestherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9736901,
+                    14.39912079
+                ]
             }
         },
         {
@@ -874,7 +1010,11 @@
                 "email": "collabgreenhills@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0453681,
+                    14.60266027
+                ]
             }
         },
         {
@@ -899,7 +1039,11 @@
                 "email": "communicare.tcc@gmail.com",
                 "website": "www.communicare-ph.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.0213751,
+                    14.44569257
+                ]
             }
         },
         {
@@ -924,7 +1068,11 @@
                 "email": "reena@contour.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0442368,
+                    14.4341845
+                ]
             }
         },
         {
@@ -949,7 +1097,11 @@
                 "email": "corepotentials@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.9671241,
+                    14.7402066
+                ]
             }
         },
         {
@@ -974,7 +1126,11 @@
                 "email": "core.skills.program@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0321159,
+                    14.62964707
+                ]
             }
         },
         {
@@ -999,7 +1155,11 @@
                 "email": "cornerstonetherapyhub@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    124.679716,
+                    8.482723202
+                ]
             }
         },
         {
@@ -1024,7 +1184,11 @@
                 "email": "creativemindslearningandtherap@gm ail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0094066,
+                    14.46881361
+                ]
             }
         },
         {
@@ -1049,7 +1213,11 @@
                 "email": "creatrixtherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.3399622,
+                    8.587192415
+                ]
             }
         },
         {
@@ -1074,7 +1242,11 @@
                 "email": "decodeitc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.013841,
+                    14.80624138
+                ]
             }
         },
         {
@@ -1099,7 +1271,11 @@
                 "email": "devhubsec@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0521923,
+                    14.54770201
+                ]
             }
         },
         {
@@ -1124,7 +1300,11 @@
                 "email": "faithluan@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.124523,
+                    14.195536
+                ]
             }
         },
         {
@@ -1149,7 +1329,11 @@
                 "email": "diversabilitiestherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0342753,
+                    14.63503598
+                ]
             }
         },
         {
@@ -1174,7 +1358,11 @@
                 "email": "dketherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    122.9621419,
+                    10.67554301
+                ]
             }
         },
         {
@@ -1199,7 +1387,11 @@
                 "email": "daq_sp@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.596716,
+                    7.074723358
+                ]
             }
         },
         {
@@ -1224,7 +1416,11 @@
                 "email": "admin@dynamicpediatrictherapy.com",
                 "website": "www.dynamicpediatrictherapy.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    123.9133666,
+                    10.32016552
+                ]
             }
         },
         {
@@ -1249,7 +1445,11 @@
                 "email": "equaltherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.6707312,
+                    16.95338029
+                ]
             }
         },
         {
@@ -1274,7 +1474,11 @@
                 "email": "estctanauan@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1548867,
+                    14.079945
+                ]
             }
         },
         {
@@ -1299,7 +1503,11 @@
                 "email": "easyspeechtherapycenter@gmail.co m",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    122.9603343,
+                    10.69651397
+                ]
             }
         },
         {
@@ -1324,7 +1532,11 @@
                 "email": "eladschoolofpotentials@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.8702885,
+                    14.2749616
+                ]
             }
         },
         {
@@ -1349,7 +1561,11 @@
                 "email": "admin@enfuego.edu.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0158647,
+                    14.4550771
+                ]
             }
         },
         {
@@ -1374,7 +1590,11 @@
                 "email": "taclobanspeechtherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.0066654,
+                    11.19730556
+                ]
             }
         },
         {
@@ -1399,7 +1619,11 @@
                 "email": "exceedabilities@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.8713941,
+                    14.82522306
+                ]
             }
         },
         {
@@ -1424,7 +1648,11 @@
                 "email": "fundevmentals@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0802155,
+                    14.61068896
+                ]
             }
         },
         {
@@ -1449,7 +1677,11 @@
                 "email": "gesu.center@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.6169077,
+                    15.10047825
+                ]
             }
         },
         {
@@ -1474,7 +1706,11 @@
                 "email": "goaltherapeutics@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    123.9004379,
+                    10.30510239
+                ]
             }
         },
         {
@@ -1499,7 +1735,11 @@
                 "email": "goals.alabang2020@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0234958,
+                    14.42603302
+                ]
             }
         },
         {
@@ -1524,7 +1764,11 @@
                 "email": "goalscompany@gmail.com",
                 "website": "goals-partnership.weebly.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    120.9986621,
+                    14.65839442
+                ]
             }
         },
         {
@@ -1549,7 +1793,11 @@
                 "email": "mendoza_clm@yahoo.com",
                 "website": "http://www.goldengatelearningcenter.net/",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1380771,
+                    14.55420908
+                ]
             }
         },
         {
@@ -1574,7 +1822,11 @@
                 "email": "goodkidstherapy@gmail.com",
                 "website": "goodkidstherapy.wixsite.com/goodkidstherapyph",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9917934,
+                    14.55335496
+                ]
             }
         },
         {
@@ -1599,7 +1851,11 @@
                 "email": "goodsoiltc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9844894,
+                    14.66239101
+                ]
             }
         },
         {
@@ -1624,7 +1880,11 @@
                 "email": "growcenterph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0386305,
+                    14.60401555
+                ]
             }
         },
         {
@@ -1649,7 +1909,11 @@
                 "email": "emsamson2016@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    120.4761303,
+                    14.70014355
+                ]
             }
         },
         {
@@ -1674,7 +1938,11 @@
                 "email": "HandTherapyPH@gmail.com",
                 "website": "www.handtherapyph.com",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0351739,
+                    14.42247809
+                ]
             }
         },
         {
@@ -1699,7 +1967,11 @@
                 "email": "happyhandstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.9777555,
+                    10.39138029
+                ]
             }
         },
         {
@@ -1724,7 +1996,11 @@
                 "email": "happytalkerslh@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.5996887,
+                    15.12241046
+                ]
             }
         },
         {
@@ -1749,7 +2025,11 @@
                 "email": "hello@hatchopen.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0592839,
+                    14.58649873
+                ]
             }
         },
         {
@@ -1774,7 +2054,11 @@
                 "email": "havenoflearning@gmail.com",
                 "website": "",
                 "tags": "",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.0548206,
+                    14.66908851
+                ]
             }
         },
         {
@@ -1799,7 +2083,11 @@
                 "email": "hopetherapy.phil@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0191289,
+                    14.6657454
+                ]
             }
         },
         {
@@ -1824,7 +2112,11 @@
                 "email": "healthpropmc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge",
+                "coordinates": [
+                    120.386026,
+                    17.579439
+                ]
             }
         },
         {
@@ -1849,7 +2141,11 @@
                 "email": "healthpropmc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge",
+                "coordinates": [
+                    120.444848,
+                    17.182144
+                ]
             }
         },
         {
@@ -1874,7 +2170,11 @@
                 "email": "healthpropmc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    120.317716,
+                    16.602085
+                ]
             }
         },
         {
@@ -1899,7 +2199,11 @@
                 "email": "helptherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.028424,
+                    14.56648563
+                ]
             }
         },
         {
@@ -1924,7 +2228,11 @@
                 "email": "helpinghandscac@gmail.com",
                 "website": "helpinghandscac.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    125.5973118,
+                    7.054328706
+                ]
             }
         },
         {
@@ -1949,7 +2257,11 @@
                 "email": "hhptcb.externals@gmail.com",
                 "website": "helpinghandsbatangas.wixsite.com/hhptc",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.065779,
+                    13.75554
+                ]
             }
         },
         {
@@ -1974,7 +2286,11 @@
                 "email": "hhsanpascual@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.015393,
+                    13.789453
+                ]
             }
         },
         {
@@ -1999,7 +2315,11 @@
                 "email": "hopedevcenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0114175,
+                    14.44120146
+                ]
             }
         },
         {
@@ -2024,7 +2344,11 @@
                 "email": "hopespeakstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0423558,
+                    14.62648517
+                ]
             }
         },
         {
@@ -2049,7 +2373,11 @@
                 "email": "inquiries@ignitecenterph.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.9607865,
+                    14.39554107
+                ]
             }
         },
         {
@@ -2074,7 +2402,11 @@
                 "email": "ilearneducationalintervention@gmail.c om",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    124.6274949,
+                    8.454309624
+                ]
             }
         },
         {
@@ -2099,7 +2431,11 @@
                 "email": "illccebu@yahoo.com",
                 "website": "illcphilippines.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.8820497,
+                    10.31424624
+                ]
             }
         },
         {
@@ -2124,7 +2460,11 @@
                 "email": "illcadmin@illcphilippines.com",
                 "website": "www.illcphilippines.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0367911,
+                    14.57804677
+                ]
             }
         },
         {
@@ -2149,7 +2489,11 @@
                 "email": "teachersassy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.6132717,
+                    7.095417212
+                ]
             }
         },
         {
@@ -2174,7 +2518,11 @@
                 "email": "intellispeechtherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.3023033,
+                    9.319680863
+                ]
             }
         },
         {
@@ -2199,7 +2547,11 @@
                 "email": "intercarelifeskillscenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.9213748,
+                    10.3406552
+                ]
             }
         },
         {
@@ -2224,7 +2576,11 @@
                 "email": "info@jikfi.org",
                 "website": "jikfi.org",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.906671,
+                    10.32501721
+                ]
             }
         },
         {
@@ -2249,7 +2605,11 @@
                 "email": "jumpstart.therapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1237319,
+                    13.9367819
+                ]
             }
         },
         {
@@ -2274,7 +2634,11 @@
                 "email": "ktimeeic@gmail.com",
                 "website": "https://ktimeeic.wixsite.com/kteic",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge",
+                "coordinates": [
+                    121.104429,
+                    14.620589
+                ]
             }
         },
         {
@@ -2299,7 +2663,11 @@
                 "email": "kaleidoscopetherapycenterbats@gm ail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9074067,
+                    13.89408186
+                ]
             }
         },
         {
@@ -2324,7 +2692,11 @@
                 "email": "ralph.mirasol@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.7285506,
+                    17.61617227
+                ]
             }
         },
         {
@@ -2349,7 +2721,11 @@
                 "email": "kidsinmotion.therapy@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0475062,
+                    14.54441902
+                ]
             }
         },
         {
@@ -2374,7 +2750,11 @@
                 "email": "info.kidsspot@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.0200108,
+                    14.44699868
+                ]
             }
         },
         {
@@ -2399,7 +2779,11 @@
                 "email": "kidshinelaguna@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0625897,
+                    14.24915689
+                ]
             }
         },
         {
@@ -2424,7 +2808,11 @@
                 "email": "kidspeak.avt@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9847647,
+                    14.45236314
+                ]
             }
         },
         {
@@ -2449,7 +2837,11 @@
                 "email": "kwc_kidswecare@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0214615,
+                    14.66664295
+                ]
             }
         },
         {
@@ -2474,7 +2866,11 @@
                 "email": "kidvincibletlc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9744188,
+                    14.42614141
+                ]
             }
         },
         {
@@ -2499,7 +2895,11 @@
                 "email": "kidzcopetherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    122.544119,
+                    10.69901519
+                ]
             }
         },
         {
@@ -2524,7 +2924,11 @@
                 "email": "launchpadtherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.7374217,
+                    17.63710408
+                ]
             }
         },
         {
@@ -2549,7 +2953,11 @@
                 "email": "leapingborderstc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9542077,
+                    14.75367921
+                ]
             }
         },
         {
@@ -2574,7 +2982,11 @@
                 "email": "",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0092499,
+                    14.62119136
+                ]
             }
         },
         {
@@ -2599,7 +3011,11 @@
                 "email": "learningladdercebu@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    123.881208,
+                    10.326841
+                ]
             }
         },
         {
@@ -2624,7 +3040,11 @@
                 "email": "learningtraincenter@gmail.com",
                 "website": "learningtraincenter.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0784656,
+                    14.60811792
+                ]
             }
         },
         {
@@ -2649,7 +3069,11 @@
                 "email": "letstalkandlearn@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.6654604,
+                    15.05196697
+                ]
             }
         },
         {
@@ -2674,7 +3098,11 @@
                 "email": "lifetlcph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9555115,
+                    14.44344684
+                ]
             }
         },
         {
@@ -2699,7 +3127,11 @@
                 "email": "lifetoolstcenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge",
+                "coordinates": [
+                    123.836831,
+                    10.265585
+                ]
             }
         },
         {
@@ -2724,7 +3156,11 @@
                 "email": "listentohappiness2006@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0603672,
+                    14.61689259
+                ]
             }
         },
         {
@@ -2749,7 +3185,11 @@
                 "email": "mmylarrazabal.cdu@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    124.6210319,
+                    10.98896205
+                ]
             }
         },
         {
@@ -2774,7 +3214,11 @@
                 "email": "littlebigstepspediatric@gmail.com",
                 "website": "littlebigstepspedi.wixsite.com/therapy",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0309247,
+                    14.48319689
+                ]
             }
         },
         {
@@ -2799,7 +3243,11 @@
                 "email": "littlehousetherapyclinic@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0384421,
+                    14.59898468
+                ]
             }
         },
         {
@@ -2824,7 +3272,11 @@
                 "email": "littlekidshaven@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.7674505,
+                    15.14591843
+                ]
             }
         },
         {
@@ -2849,7 +3301,11 @@
                 "email": "hello@magiscreative.net",
                 "website": "magiscreative.net",
                 "tags": "",
-                "sources": "sources=PAOT;local knowledge"
+                "sources": "sources=PAOT;local knowledge",
+                "coordinates": [
+                    121.027835,
+                    14.406428
+                ]
             }
         },
         {
@@ -2874,7 +3330,11 @@
                 "email": "magisrehabclinic@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.0151776,
+                    14.46959268
+                ]
             }
         },
         {
@@ -2899,7 +3359,11 @@
                 "email": "medbaytherapyandlearningcenter@ gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    124.2455615,
+                    8.231039336
+                ]
             }
         },
         {
@@ -2924,7 +3388,11 @@
                 "email": "wearemattsmanila@gmail.com",
                 "website": "wearematts.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0239334,
+                    14.60435955
+                ]
             }
         },
         {
@@ -2949,7 +3417,11 @@
                 "email": "wearematts@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.8119308,
+                    14.85506485
+                ]
             }
         },
         {
@@ -2974,7 +3446,11 @@
                 "email": "mychildsplacetherapycenter@gmail.c om",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.8132986,
+                    14.85870814
+                ]
             }
         },
         {
@@ -2999,7 +3475,11 @@
                 "email": "ellynnamoro@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.5496101,
+                    16.69056435
+                ]
             }
         },
         {
@@ -3024,7 +3504,11 @@
                 "email": "nibspptc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0867174,
+                    14.32801275
+                ]
             }
         },
         {
@@ -3049,7 +3533,11 @@
                 "email": "optimalskillstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    120.962904,
+                    14.752525
+                ]
             }
         },
         {
@@ -3074,7 +3562,11 @@
                 "email": "pangasinan_cts@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.3310198,
+                    16.04336399
+                ]
             }
         },
         {
@@ -3099,7 +3591,11 @@
                 "email": "paslit.center@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    120.9408372,
+                    14.40665012
+                ]
             }
         },
         {
@@ -3124,7 +3620,11 @@
                 "email": "hello@paththerapycenter.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.6124647,
+                    13.93055562
+                ]
             }
         },
         {
@@ -3149,7 +3649,11 @@
                 "email": "pathwaytherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.925413,
+                    10.35683283
+                ]
             }
         },
         {
@@ -3174,7 +3678,11 @@
                 "email": "info@peanschool.com",
                 "website": "https://peanschool.com/",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.013916,
+                    14.500892
+                ]
             }
         },
         {
@@ -3199,7 +3707,11 @@
                 "email": "pmhacds@gmail.com",
                 "website": "www.pmha.org.ph",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0467777,
+                    14.63794165
+                ]
             }
         },
         {
@@ -3224,7 +3736,11 @@
                 "email": "rolette.roldan@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.4387308,
+                    7.832194685
+                ]
             }
         },
         {
@@ -3249,7 +3765,11 @@
                 "email": "slingismybling@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.5932629,
+                    16.40592818
+                ]
             }
         },
         {
@@ -3274,7 +3794,11 @@
                 "email": "theplayexplorerstherapycenter@gmail .com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.0149445,
+                    14.54291095
+                ]
             }
         },
         {
@@ -3299,7 +3823,11 @@
                 "email": "playiscool@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.9564241,
+                    14.45325175
+                ]
             }
         },
         {
@@ -3324,7 +3852,11 @@
                 "email": "play_matters@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.7073669,
+                    15.05217613
+                ]
             }
         },
         {
@@ -3349,7 +3881,11 @@
                 "email": "playmatters.angeles@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.5909815,
+                    15.17108647
+                ]
             }
         },
         {
@@ -3374,7 +3910,11 @@
                 "email": "mprd1207@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.5474832,
+                    14.90063952
+                ]
             }
         },
         {
@@ -3399,7 +3939,11 @@
                 "email": "playpalscdc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.056209,
+                    14.812724
+                ]
             }
         },
         {
@@ -3424,7 +3968,11 @@
                 "email": "playplustherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.03804,
+                    14.59882471
+                ]
             }
         },
         {
@@ -3449,7 +3997,11 @@
                 "email": "playtolearntherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.6183847,
+                    7.096654693
+                ]
             }
         },
         {
@@ -3474,7 +4026,11 @@
                 "email": "playabilitiesiloilo@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    122.5605693,
+                    10.69913846
+                ]
             }
         },
         {
@@ -3499,7 +4055,11 @@
                 "email": "playfirst.therapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.9641885,
+                    10.38046238
+                ]
             }
         },
         {
@@ -3524,7 +4084,11 @@
                 "email": "playspacedtc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    120.596021,
+                    18.195933
+                ]
             }
         },
         {
@@ -3549,7 +4113,11 @@
                 "email": "polikidscenterfd17@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.9640437,
+                    14.81990294
+                ]
             }
         },
         {
@@ -3574,7 +4142,11 @@
                 "email": "potentialstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0250233,
+                    14.65966306
+                ]
             }
         },
         {
@@ -3599,7 +4171,11 @@
                 "email": "inquiries.progresstherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    120.996594,
+                    14.524199
+                ]
             }
         },
         {
@@ -3624,7 +4200,11 @@
                 "email": "pracemalolos@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.8073994,
+                    14.85938037
+                ]
             }
         },
         {
@@ -3649,7 +4229,11 @@
                 "email": "prumindstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.9526236,
+                    10.25450092
+                ]
             }
         },
         {
@@ -3674,7 +4258,11 @@
                 "email": "roadtotalk@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    120.9175549,
+                    13.88401159
+                ]
             }
         },
         {
@@ -3699,7 +4287,11 @@
                 "email": "siboltherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9997166,
+                    14.61576338
+                ]
             }
         },
         {
@@ -3724,7 +4316,11 @@
                 "email": "sacdbinc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.8983369,
+                    14.95518167
+                ]
             }
         },
         {
@@ -3749,7 +4345,11 @@
                 "email": "sandboxclinic@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.030654,
+                    14.549878
+                ]
             }
         },
         {
@@ -3774,7 +4374,11 @@
                 "email": "skillbuilderstscorp@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    120.9907154,
+                    14.57387133
+                ]
             }
         },
         {
@@ -3799,7 +4403,11 @@
                 "email": "skilldiscoverytlc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.9150121,
+                    14.28216478
+                ]
             }
         },
         {
@@ -3824,7 +4432,11 @@
                 "email": "smartstepsdevtherapycenter@gmail.c om",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.8930037,
+                    14.47727526
+                ]
             }
         },
         {
@@ -3849,7 +4461,11 @@
                 "email": "smartstepsbacoor@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.9468831,
+                    14.44686402
+                ]
             }
         },
         {
@@ -3874,7 +4490,11 @@
                 "email": "SpeakPlayCenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.5958382,
+                    14.55703665
+                ]
             }
         },
         {
@@ -3899,7 +4519,11 @@
                 "email": "speechpathph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0728484,
+                    14.63364773
+                ]
             }
         },
         {
@@ -3924,7 +4548,11 @@
                 "email": "speechplaytc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.1932207,
+                    9.10384251
+                ]
             }
         },
         {
@@ -3949,7 +4577,11 @@
                 "email": "speechworksbatangas@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1659747,
+                    13.95560974
+                ]
             }
         },
         {
@@ -3974,7 +4606,11 @@
                 "email": "SpEdStarflight@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.8614029,
+                    14.86514206
+                ]
             }
         },
         {
@@ -3999,7 +4635,11 @@
                 "email": "stellarcenterph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.6357715,
+                    15.08597089
+                ]
             }
         },
         {
@@ -4024,7 +4664,11 @@
                 "email": "stepsinc.com@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.5328801,
+                    8.95588051
+                ]
             }
         },
         {
@@ -4049,7 +4693,11 @@
                 "email": "steps_carmona@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0382489,
+                    14.30716236
+                ]
             }
         },
         {
@@ -4074,7 +4722,11 @@
                 "email": "stillwaters_sped@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0268217,
+                    14.42778995
+                ]
             }
         },
         {
@@ -4099,7 +4751,11 @@
                 "email": "solspeechlinic@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.8631474,
+                    14.85151421
+                ]
             }
         },
         {
@@ -4124,7 +4780,11 @@
                 "email": "studypals.abc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0737589,
+                    14.64094462
+                ]
             }
         },
         {
@@ -4149,7 +4809,11 @@
                 "email": "tpreblora1978@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    123.7338267,
+                    13.20718064
+                ]
             }
         },
         {
@@ -4174,7 +4838,11 @@
                 "email": "sdebatangascity@sunhilledu.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1186963,
+                    13.74228693
+                ]
             }
         },
         {
@@ -4199,7 +4867,11 @@
                 "email": "superkidshub@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9401596,
+                    14.77228731
+                ]
             }
         },
         {
@@ -4224,7 +4896,11 @@
                 "email": "takestepstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    123.785427,
+                    10.242258
+                ]
             }
         },
         {
@@ -4249,7 +4925,11 @@
                 "email": "talkingturns.slp@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    122.9520346,
+                    10.67066989
+                ]
             }
         },
         {
@@ -4274,7 +4954,11 @@
                 "email": "techniksthatwork@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0051373,
+                    14.5622178
+                ]
             }
         },
         {
@@ -4299,7 +4983,11 @@
                 "email": "ablecentermanila@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0077757,
+                    14.56578724
+                ]
             }
         },
         {
@@ -4324,7 +5012,11 @@
                 "email": "thelearningcanvasph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9974655,
+                    14.63393214
+                ]
             }
         },
         {
@@ -4349,7 +5041,11 @@
                 "email": "thelearningspotph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.1077362,
+                    14.30907945
+                ]
             }
         },
         {
@@ -4374,7 +5070,11 @@
                 "email": "thenurturehub21@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.7544227,
+                    14.97453916
+                ]
             }
         },
         {
@@ -4399,7 +5099,11 @@
                 "email": "thespotcenterdavao@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.5806059,
+                    7.086396022
+                ]
             }
         },
         {
@@ -4424,7 +5128,11 @@
                 "email": "thetherapyhouseinc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP;local knowledge"
+                "sources": "sources=PAOT;PASP;local knowledge",
+                "coordinates": [
+                    120.938538,
+                    14.33304
+                ]
             }
         },
         {
@@ -4449,7 +5157,11 @@
                 "email": "thetinyhouse2019@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    125.6097864,
+                    7.111408605
+                ]
             }
         },
         {
@@ -4474,7 +5186,11 @@
                 "email": "information@vanguard.edu.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0422502,
+                    14.56262845
+                ]
             }
         },
         {
@@ -4499,7 +5215,11 @@
                 "email": "therahealthph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0361621,
+                    14.57839555
+                ]
             }
         },
         {
@@ -4524,7 +5244,11 @@
                 "email": "therabeelearningcenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1543331,
+                    14.5303941
+                ]
             }
         },
         {
@@ -4549,7 +5273,11 @@
                 "email": "therabilitiesinc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.056434,
+                    14.57890953
+                ]
             }
         },
         {
@@ -4574,7 +5302,11 @@
                 "email": "therasouth@gmail.com",
                 "website": "therabilitiesinc.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    121.03513,
+                    14.41999037
+                ]
             }
         },
         {
@@ -4599,7 +5331,11 @@
                 "email": "therabridge@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP;local knowledge"
+                "sources": "sources=PASP;local knowledge",
+                "coordinates": [
+                    121.620444,
+                    13.956111
+                ]
             }
         },
         {
@@ -4624,7 +5360,11 @@
                 "email": "therabright@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0369495,
+                    14.65486002
+                ]
             }
         },
         {
@@ -4649,7 +5389,11 @@
                 "email": "therabuddiescdc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP;local knowledge"
+                "sources": "sources=PAOT;PASP;local knowledge",
+                "coordinates": [
+                    120.927738,
+                    14.727481
+                ]
             }
         },
         {
@@ -4674,7 +5418,11 @@
                 "email": "therachieve@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.95619,
+                    10.30326527
+                ]
             }
         },
         {
@@ -4699,7 +5447,11 @@
                 "email": "teacherdee.slp@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.1791557,
+                    13.41104821
+                ]
             }
         },
         {
@@ -4724,7 +5476,11 @@
                 "email": "therahome.08@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0573117,
+                    14.36724832
+                ]
             }
         },
         {
@@ -4749,7 +5505,11 @@
                 "email": "theraliferc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.8409261,
+                    10.26547176
+                ]
             }
         },
         {
@@ -4774,7 +5534,11 @@
                 "email": "sjlteamlc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.3372538,
+                    16.6700198
+                ]
             }
         },
         {
@@ -4799,7 +5563,11 @@
                 "email": "thinkthoughts@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0339069,
+                    14.62768069
+                ]
             }
         },
         {
@@ -4824,7 +5592,11 @@
                 "email": "theraplaypedia@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    124.0296432,
+                    10.5210622
+                ]
             }
         },
         {
@@ -4849,7 +5621,11 @@
                 "email": "theraplaypedia@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    124.031299,
+                    10.49630712
+                ]
             }
         },
         {
@@ -4874,7 +5650,11 @@
                 "email": "therasensped@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9387318,
+                    14.31986917
+                ]
             }
         },
         {
@@ -4899,7 +5679,11 @@
                 "email": "theraserve2008@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0380457,
+                    14.62775693
+                ]
             }
         },
         {
@@ -4924,7 +5708,11 @@
                 "email": "chie.baterina@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.3879629,
+                    17.63251849
+                ]
             }
         },
         {
@@ -4949,7 +5737,11 @@
                 "email": "theratalk@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT;PASP"
+                "sources": "sources=PAOT;PASP",
+                "coordinates": [
+                    120.8622009,
+                    14.88457423
+                ]
             }
         },
         {
@@ -4974,7 +5766,11 @@
                 "email": "thinkthoughts@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    121.0339183,
+                    14.62766324
+                ]
             }
         },
         {
@@ -4999,7 +5795,11 @@
                 "email": "thrivetherapycenter.ph@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.8826531,
+                    10.32595122
+                ]
             }
         },
         {
@@ -5024,7 +5824,11 @@
                 "email": "info@together.org.ph",
                 "website": "together.org.ph",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    122.0715029,
+                    6.925708659
+                ]
             }
         },
         {
@@ -5049,7 +5853,11 @@
                 "email": "tpltherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    123.9456842,
+                    10.33881737
+                ]
             }
         },
         {
@@ -5074,7 +5882,11 @@
                 "email": "inquiries@trailscenter.com",
                 "website": "trails.com.ph",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    121.0467168,
+                    14.59100628
+                ]
             }
         },
         {
@@ -5099,7 +5911,11 @@
                 "email": "inquiries@trailscenter.com",
                 "website": "trails.com.ph",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PASP"
+                "sources": "sources=PASP",
+                "coordinates": [
+                    120.9929876,
+                    14.61293324
+                ]
             }
         },
         {
@@ -5124,7 +5940,11 @@
                 "email": "theracareot.davao@gmail.com",
                 "website": "theracare-therapy-center.business.site",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    125.613507,
+                    7.107021999
+                ]
             }
         },
         {
@@ -5149,7 +5969,11 @@
                 "email": "wiredbraintherapycenter@yahoo.com.ph",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=PAOT"
+                "sources": "sources=PAOT",
+                "coordinates": [
+                    120.9489287,
+                    15.29670997
+                ]
             }
         },
         {
@@ -5174,7 +5998,11 @@
                 "email": "takestepstherapycenter@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    123.841007,
+                    10.262365
+                ]
             }
         },
         {
@@ -5199,7 +6027,11 @@
                 "email": "arnold23celendro@gmail.com",
                 "website": "",
                 "tags": "healthcare=occupational_therapist;physiotherapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    122.5714853,
+                    10.71405341
+                ]
             }
         },
         {
@@ -5224,7 +6056,11 @@
                 "email": "fundamentals.pediatrictherapy@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist;physiotherapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    123.898909,
+                    10.31265
+                ]
             }
         },
         {
@@ -5249,7 +6085,11 @@
                 "email": "playsense.tc@gmail.com",
                 "website": "playsenseph.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    120.9799681,
+                    14.3722663
+                ]
             }
         },
         {
@@ -5274,7 +6114,11 @@
                 "email": "teamworksmarbel@gmail.com",
                 "website": "teamworksph.com",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    124.844996,
+                    6.491202
+                ]
             }
         },
         {
@@ -5299,7 +6143,11 @@
                 "email": "jayarrsale4180@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    124.473201,
+                    10.05694
+                ]
             }
         },
         {
@@ -5324,7 +6172,11 @@
                 "email": "littlepalmormoc@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    124.6120877,
+                    11.00598442
+                ]
             }
         },
         {
@@ -5349,7 +6201,11 @@
                 "email": "kidsworldinfoandqueries@gmail.com",
                 "website": "www.kidsworldintegratedschool.com",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    121.031993,
+                    14.601055
+                ]
             }
         },
         {
@@ -5374,7 +6230,11 @@
                 "email": "teacherashouseoflearningiloilo@gmail.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    120.8843322,
+                    14.8426072
+                ]
             }
         },
         {
@@ -5399,7 +6259,11 @@
                 "email": "rehabservices_philippines2012@yahoo.com",
                 "website": "",
                 "tags": "healthcare=speech_therapist;occupational_therapist",
-                "sources": "sources=local knowledge"
+                "sources": "sources=local knowledge",
+                "coordinates": [
+                    125.592198,
+                    7.051663
+                ]
             }
         }
     ]
