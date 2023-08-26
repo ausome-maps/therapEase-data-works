@@ -3,7 +3,7 @@
     "name": "Ausome Maps - Therapy Centers",
     "features": [
         {
-            "id": "",
+            "id": "d1edaec4-8aee-42f5-abd4-cbb65b0a7f1e",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -28,7 +28,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5435e1a9-9791-4beb-851d-6f501c9a0599",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -53,7 +53,7 @@
             }
         },
         {
-            "id": "",
+            "id": "fc4548a6-50dc-4ecd-9759-6bebdc6c0922",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d423f9a7-fcef-4d08-a9f6-7b798cd523f4",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -128,7 +128,7 @@
             }
         },
         {
-            "id": "",
+            "id": "9ce4845d-5e72-4f6e-8802-0e98855e3d17",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -153,7 +153,7 @@
             }
         },
         {
-            "id": "",
+            "id": "ce8e3c02-74f9-44bb-9be8-8ebe98aed8f7",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -178,7 +178,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5b3ce0a2-e93e-405b-bb2a-69cc27398987",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -228,7 +228,7 @@
             }
         },
         {
-            "id": "",
+            "id": "bd13466d-04e1-40bb-9a0e-67dc6a35ce1f",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -253,7 +253,7 @@
             }
         },
         {
-            "id": "",
+            "id": "8177dace-af79-4e8e-9ae6-c4828a7189bc",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -303,7 +303,7 @@
             }
         },
         {
-            "id": "",
+            "id": "1c8fdab9-d3c5-40be-9c7f-fe25a50f77d3",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -328,7 +328,7 @@
             }
         },
         {
-            "id": "",
+            "id": "9876688c-f8f1-45bc-a1ab-f2c2bed20dca",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -353,7 +353,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5772c3b0-194c-47d0-ae75-1909d18153b4",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -403,7 +403,7 @@
             }
         },
         {
-            "id": "",
+            "id": "8c58ceb0-2da7-4220-b158-cbd1b9658d68",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -428,7 +428,7 @@
             }
         },
         {
-            "id": "",
+            "id": "fe32515d-1b5e-4b02-9e36-fe3fe67228dd",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -453,7 +453,7 @@
             }
         },
         {
-            "id": "",
+            "id": "6e14f187-e6e0-4d1e-9825-501ff7da01d5",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -478,7 +478,7 @@
             }
         },
         {
-            "id": "",
+            "id": "217de040-3950-4caa-b4ad-06d335614409",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -528,7 +528,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5a2d2829-c3cd-4c57-a1c6-11d8a0c33274",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -553,7 +553,7 @@
             }
         },
         {
-            "id": "",
+            "id": "ee015fb2-30b1-4014-ad7c-c3e57738d922",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -578,7 +578,7 @@
             }
         },
         {
-            "id": "",
+            "id": "6a2f85b8-2eaf-44f7-92ad-f2668c228efc",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -603,7 +603,7 @@
             }
         },
         {
-            "id": "",
+            "id": "00fa72bd-dc2a-46cd-b1ce-7dbc23131480",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -628,7 +628,7 @@
             }
         },
         {
-            "id": "",
+            "id": "81ccc7fd-5ad5-4fb2-b24b-bb4533899eed",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -653,7 +653,7 @@
             }
         },
         {
-            "id": "",
+            "id": "422effa7-e448-482b-bb4e-ec74c1c9e167",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -678,7 +678,7 @@
             }
         },
         {
-            "id": "",
+            "id": "9403ca32-ed3e-4a9b-b35d-2d8dab540a97",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -728,7 +728,7 @@
             }
         },
         {
-            "id": "",
+            "id": "9b8a0480-dc68-4e6d-a17f-072548483db2",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -778,7 +778,7 @@
             }
         },
         {
-            "id": "",
+            "id": "3902f898-56a1-4b53-aef5-b73a561e9eef",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -803,7 +803,7 @@
             }
         },
         {
-            "id": "",
+            "id": "c8cea89f-8ed3-4e8d-973e-6248e9b4b5ba",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -828,7 +828,7 @@
             }
         },
         {
-            "id": "",
+            "id": "da877dc9-0e46-4ac5-871f-24736cd1c079",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -853,7 +853,7 @@
             }
         },
         {
-            "id": "",
+            "id": "1a0c0a96-8ac1-42de-b353-1af0a7d886d1",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -878,7 +878,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d8364d65-d5a0-4c26-b415-22672336e59b",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -903,7 +903,7 @@
             }
         },
         {
-            "id": "",
+            "id": "f08ec8ea-7dc6-455b-b89d-d1fc8549818a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -928,7 +928,7 @@
             }
         },
         {
-            "id": "",
+            "id": "7ae6ea34-3a50-4517-975c-2287bc047298",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -953,7 +953,7 @@
             }
         },
         {
-            "id": "",
+            "id": "3e1b7b67-4d19-4b03-937f-4e45918c1913",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -978,7 +978,7 @@
             }
         },
         {
-            "id": "",
+            "id": "49431479-a7ea-41ff-8a41-a78acbbc6d36",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1003,7 +1003,7 @@
             }
         },
         {
-            "id": "",
+            "id": "8da0340b-8ee2-47dc-bd55-19021508e122",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1028,7 +1028,7 @@
             }
         },
         {
-            "id": "",
+            "id": "dddf1edb-03b4-420e-a2c0-9cf2419d8a51",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1053,7 +1053,7 @@
             }
         },
         {
-            "id": "",
+            "id": "47def1a8-6ab4-41f5-9af3-55b8d3f28013",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1078,7 +1078,7 @@
             }
         },
         {
-            "id": "",
+            "id": "07b7acdc-3726-40b8-ab0c-4ad59d87e44c",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1128,7 +1128,7 @@
             }
         },
         {
-            "id": "",
+            "id": "33ec5f61-80db-4fb9-a9c5-7af24dc37b24",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1153,7 +1153,7 @@
             }
         },
         {
-            "id": "",
+            "id": "254ac037-7452-4eec-b777-27204118a23d",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1178,7 +1178,7 @@
             }
         },
         {
-            "id": "",
+            "id": "1ac82c9f-7b3b-47d5-85ed-0f53c7c75bb3",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1203,7 +1203,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5b109ad5-bdfe-4562-8b6a-e29e00835378",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1228,7 +1228,7 @@
             }
         },
         {
-            "id": "",
+            "id": "7dcd1323-dff9-44dd-95d0-90592b5857e2",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1253,7 +1253,7 @@
             }
         },
         {
-            "id": "",
+            "id": "065633ed-6927-489a-adc4-95f88335d636",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1278,7 @@
             }
         },
         {
-            "id": "",
+            "id": "0ca47d06-3879-46dc-920f-ff1f5726f692",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1303,7 +1303,7 @@
             }
         },
         {
-            "id": "",
+            "id": "eaeaef17-2426-4732-8ad8-53a09859ce80",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1328,7 +1328,7 @@
             }
         },
         {
-            "id": "",
+            "id": "26c746c8-49d7-4f95-8b7d-bb99b73df439",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1353,7 +1353,7 @@
             }
         },
         {
-            "id": "",
+            "id": "098b4bff-374c-4a26-b3d6-d2cc46aa2db4",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1378,7 +1378,7 @@
             }
         },
         {
-            "id": "",
+            "id": "f5fd525c-6064-439d-8ae6-41c463449899",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1403,7 +1403,7 @@
             }
         },
         {
-            "id": "",
+            "id": "57f0f1cc-5b9f-48c8-8f16-33bffed3b7ff",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1428,7 +1428,7 @@
             }
         },
         {
-            "id": "",
+            "id": "c9fae9d9-9acc-4856-9d2d-770cec9f3c1a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1478,7 +1478,7 @@
             }
         },
         {
-            "id": "",
+            "id": "0bcd9c2f-169b-4a22-9674-ea13573cb192",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1503,7 +1503,7 @@
             }
         },
         {
-            "id": "",
+            "id": "23f9003f-797e-451d-bf2d-fa07af0952fb",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1528,7 +1528,7 @@
             }
         },
         {
-            "id": "",
+            "id": "12764e4d-4267-4e04-8154-cc1ce5b5e212",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1553,7 +1553,7 @@
             }
         },
         {
-            "id": "",
+            "id": "e08e6a9d-f4e9-45a0-a9ad-583012988e0e",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1578,7 +1578,7 @@
             }
         },
         {
-            "id": "",
+            "id": "600a62cc-9ef8-4ddf-9d43-6da258a287be",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1603,7 @@
             }
         },
         {
-            "id": "",
+            "id": "fa888ca4-a6cf-4254-9292-112cc33c534c",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1628,7 +1628,7 @@
             }
         },
         {
-            "id": "",
+            "id": "64be9a03-f972-45ff-ab95-137c506a4ec9",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1653,7 +1653,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5b4cf71b-a6c0-48d5-9e83-a72683967009",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1678,7 +1678,7 @@
             }
         },
         {
-            "id": "",
+            "id": "aa2be91c-f94f-4565-920b-8f8790b2e86a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1703,7 +1703,7 @@
             }
         },
         {
-            "id": "",
+            "id": "02096272-86a0-4b73-bed2-25117b9fa2e7",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1728,7 +1728,7 @@
             }
         },
         {
-            "id": "",
+            "id": "ec0f6b80-48e0-4be0-b4c2-af945547a46b",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1753,7 +1753,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d3d1e42b-21ae-4c33-9bd7-f60df5860e76",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1778,7 +1778,7 @@
             }
         },
         {
-            "id": "",
+            "id": "8ba6fe06-a30a-487b-bdfe-e278bc59c142",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -1978,7 +1978,7 @@
             }
         },
         {
-            "id": "",
+            "id": "56f1a31b-8fd2-4794-bcd2-a319b3ff4007",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2003,7 +2003,7 @@
             }
         },
         {
-            "id": "",
+            "id": "13f95b6f-ff31-4d22-9ea2-368897011e17",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2028,7 +2028,7 @@
             }
         },
         {
-            "id": "",
+            "id": "78e9a90d-0dc3-437a-9620-411eb8893142",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2053,7 +2053,7 @@
             }
         },
         {
-            "id": "",
+            "id": "a1d25482-5175-44a0-a47e-e552b4b688c6",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2078,7 +2078,7 @@
             }
         },
         {
-            "id": "",
+            "id": "33aa713b-dd2c-4651-a1b6-95b8829ebbfa",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2103,7 +2103,7 @@
             }
         },
         {
-            "id": "",
+            "id": "73dd14c7-67bf-4cb2-b5ec-75226332ba81",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2128,7 +2128,7 @@
             }
         },
         {
-            "id": "",
+            "id": "9d821915-6819-49bc-83c2-3dca5ae514d8",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2153,7 +2153,7 @@
             }
         },
         {
-            "id": "",
+            "id": "43bab150-8b79-4f1f-9745-e5097b982591",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2178,7 +2178,7 @@
             }
         },
         {
-            "id": "",
+            "id": "ff92cdb5-e7b2-43be-9d78-af8da4ae6472",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2203,7 +2203,7 @@
             }
         },
         {
-            "id": "",
+            "id": "4c150bae-fa3f-478b-8911-85045b124e0e",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2228,7 +2228,7 @@
             }
         },
         {
-            "id": "",
+            "id": "fbf3a2d9-e826-4e18-9f1c-a709f5201b29",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2278,7 +2278,7 @@
             }
         },
         {
-            "id": "",
+            "id": "142a4d60-5df7-4ca0-a50f-8a763c5526d4",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2303,7 +2303,7 @@
             }
         },
         {
-            "id": "",
+            "id": "f4451aa8-e2b6-4081-abb8-b4a67e11558f",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2328,7 +2328,7 @@
             }
         },
         {
-            "id": "",
+            "id": "138ccb93-51ac-4a61-99ae-42629b0eaba5",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2353,7 +2353,7 @@
             }
         },
         {
-            "id": "",
+            "id": "449cd750-443c-44bb-8639-faed63b7e220",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2378,7 +2378,7 @@
             }
         },
         {
-            "id": "",
+            "id": "06688bf0-dd12-4a5a-8ba9-60624cf46765",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2403,7 +2403,7 @@
             }
         },
         {
-            "id": "",
+            "id": "073c7b1b-8be1-4456-8c00-bd2db01c404a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2428,7 +2428,7 @@
             }
         },
         {
-            "id": "",
+            "id": "a8974a93-79eb-4625-a478-89a4db2d87d1",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2453,7 +2453,7 @@
             }
         },
         {
-            "id": "",
+            "id": "67f81654-064a-4bdd-be9e-02d3addbfa18",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2478,7 +2478,7 @@
             }
         },
         {
-            "id": "",
+            "id": "4f520514-6487-4a79-9dab-82a95cc943c9",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2503,7 +2503,7 @@
             }
         },
         {
-            "id": "",
+            "id": "15819862-1d40-4356-b48c-b1e148640777",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2528,7 +2528,7 @@
             }
         },
         {
-            "id": "",
+            "id": "f43030ac-773f-4051-b63d-ec213f0fe0db",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2553,7 +2553,7 @@
             }
         },
         {
-            "id": "",
+            "id": "3f660818-c5c3-40c9-813b-ddae3a8276b1",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2603,7 +2603,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d411b3fd-b161-418e-8942-75025a83efeb",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2628,7 +2628,7 @@
             }
         },
         {
-            "id": "",
+            "id": "22578190-4e63-411a-adcf-c38bdf97e3ae",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2653,7 +2653,7 @@
             }
         },
         {
-            "id": "",
+            "id": "93823401-590f-4aac-a8e8-a40d7cee981a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2703,7 +2703,7 @@
             }
         },
         {
-            "id": "",
+            "id": "084454f9-3fca-4aee-9347-50d8ff7a3c6b",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2728,7 +2728,7 @@
             }
         },
         {
-            "id": "",
+            "id": "81e07bfe-8ebe-4070-9460-026597624bd4",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2753,7 +2753,7 @@
             }
         },
         {
-            "id": "",
+            "id": "e14812af-1599-4f47-863b-fcfe64fe737f",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2778,7 +2778,7 @@
             }
         },
         {
-            "id": "",
+            "id": "890a531b-7c4f-4056-a6b6-9986791d4855",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2803,7 +2803,7 @@
             }
         },
         {
-            "id": "",
+            "id": "7ead6cb2-4f11-4cab-a1d4-03d0fce6aeb4",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2853,7 +2853,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5020885b-69ae-4430-b844-ca5ad21f0501",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2878,7 +2878,7 @@
             }
         },
         {
-            "id": "",
+            "id": "72655940-88de-4d92-8332-fb7b784dd26a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2903,7 +2903,7 @@
             }
         },
         {
-            "id": "",
+            "id": "2c9e389d-4a66-4093-846b-50d05399ff60",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2928,7 +2928,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d6a701ad-c123-440b-bb0c-806ca5a482ea",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2953,7 +2953,7 @@
             }
         },
         {
-            "id": "",
+            "id": "de1df391-779a-49de-a131-d3b8253df490",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -2978,7 +2978,7 @@
             }
         },
         {
-            "id": "",
+            "id": "0bd54230-6068-4fca-ae00-6aa3eb35509a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3003,32 +3003,7 @@
             }
         },
         {
-            "id": "",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.0208169,
-                    14.62052417
-                ]
-            },
-            "properties": {
-                "osmid": "",
-                "name": "National Children's Hospital",
-                "address": "264 E. Rodriguez Sr. Avenue Quezon City",
-                "region": "NCR",
-                "city": "Quezon City",
-                "province": "",
-                "mobile": "+63 097 609 6346",
-                "phone": "87240656 local 501",
-                "email": "cdc.slp@nch.doh.gov.ph",
-                "website": "",
-                "tags": "healthcare=speech_therapist",
-                "sources": "sources=PASP"
-            }
-        },
-        {
-            "id": "",
+            "id": "6ffa6f9d-f418-4a91-b38c-289bebdee9b0",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3078,7 +3053,7 @@
             }
         },
         {
-            "id": "",
+            "id": "1f52b811-5712-4c16-ad85-007fce6074fa",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3103,7 +3078,7 @@
             }
         },
         {
-            "id": "",
+            "id": "6589a4d9-d11e-40af-9f01-016bebb43311",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3128,7 +3103,7 @@
             }
         },
         {
-            "id": "",
+            "id": "ed504224-7c62-405c-8fd9-efd96f25ece1",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3153,7 +3128,7 @@
             }
         },
         {
-            "id": "",
+            "id": "b8c638cd-dc6d-4d9a-a8b0-340ad983bf92",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3203,32 +3178,7 @@
             }
         },
         {
-            "id": "e0b88804-e725-4909-8dec-9e84b0fa1c90",
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.041445,
-                    14.647605
-                ]
-            },
-            "properties": {
-                "osmid": "",
-                "name": "Philippine Children's Medical Center Rehabilitation Medicine Division",
-                "address": "Agham Road, Quezon Avenue, Quezon City",
-                "region": "NCR",
-                "city": "Quezon City",
-                "province": "",
-                "mobile": "+63 095 671 6438",
-                "phone": "85889900 local 297",
-                "email": "pcmcrmd_ot@yahoo.com",
-                "website": "http://www.pcmc.gov.ph",
-                "tags": "healthcare=occupational_therapist",
-                "sources": "sources=PAOT;local knowledge"
-            }
-        },
-        {
-            "id": "",
+            "id": "a6b86f6f-2082-431f-b1f2-236749e97794",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3253,7 +3203,7 @@
             }
         },
         {
-            "id": "",
+            "id": "a6f5bd26-a995-418d-999b-0351e62c796c",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3278,7 +3228,7 @@
             }
         },
         {
-            "id": "",
+            "id": "f7ba459e-0f94-45fc-96fd-3f8544aa4802",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3328,7 +3278,7 @@
             }
         },
         {
-            "id": "",
+            "id": "1c0fa270-249b-4dc8-81b6-e38f18fcd1ee",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3353,7 +3303,7 @@
             }
         },
         {
-            "id": "",
+            "id": "eaed4335-30f3-4deb-98c7-49646d025369",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3378,7 +3328,7 @@
             }
         },
         {
-            "id": "",
+            "id": "4a5262ef-531b-4b2c-9335-e7ac3b52f771",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3403,7 +3353,7 @@
             }
         },
         {
-            "id": "",
+            "id": "1d71390d-062d-44b0-878b-ac547899b007",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3453,7 +3403,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5f38b0fd-4377-49c3-a983-62dbce7a07d3",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3478,7 +3428,7 @@
             }
         },
         {
-            "id": "",
+            "id": "cbd6b24b-58dc-4e4d-98cb-4103fcf53450",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3503,7 +3453,7 @@
             }
         },
         {
-            "id": "",
+            "id": "a1901122-e6f2-4db2-866a-48a3928b3f05",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3528,7 +3478,7 @@
             }
         },
         {
-            "id": "",
+            "id": "321d4d63-a878-4bfa-a501-b51f2a76befb",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3578,7 +3528,7 @@
             }
         },
         {
-            "id": "",
+            "id": "017e7dc1-5643-4f90-b824-6cee23c33ee2",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3603,7 +3553,7 @@
             }
         },
         {
-            "id": "",
+            "id": "7bb89df0-2479-4bde-90ef-42e5ba0aeab3",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3653,7 +3603,7 @@
             }
         },
         {
-            "id": "",
+            "id": "9abb77bb-339d-4eb4-b3d4-7dfa331fcec9",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3678,7 +3628,7 @@
             }
         },
         {
-            "id": "",
+            "id": "83ec8c8d-17fc-450c-82ae-932435288ba6",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3703,7 +3653,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d05f9cbb-a69b-44bc-9f04-d946385e0e94",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3728,7 +3678,7 @@
             }
         },
         {
-            "id": "",
+            "id": "5a0e580c-5266-4987-b6db-4e971d18ed96",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3753,7 +3703,7 @@
             }
         },
         {
-            "id": "",
+            "id": "93363cbf-9d6e-46f0-9ece-80a83560debe",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3803,7 +3753,7 @@
             }
         },
         {
-            "id": "",
+            "id": "1b347d82-2964-450a-aed0-b8318f13675a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3828,7 +3778,7 @@
             }
         },
         {
-            "id": "",
+            "id": "984b045a-bbe5-4561-b9ea-98731649379e",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3853,7 +3803,7 @@
             }
         },
         {
-            "id": "",
+            "id": "b60edb4d-0a27-43a6-9c46-4a164eccc735",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3878,7 +3828,7 @@
             }
         },
         {
-            "id": "",
+            "id": "b60edb4d-0a27-43a6-9c46-4a164eccc735",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3903,7 +3853,7 @@
             }
         },
         {
-            "id": "",
+            "id": "6c5508a4-7fdb-41b6-ae7a-fcd6a495edd9",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3928,7 +3878,7 @@
             }
         },
         {
-            "id": "",
+            "id": "a91d2e9b-6628-4fcf-9987-a1582e6ebcde",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3953,7 +3903,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d8c8bf4c-13c4-41dd-9d20-28b5b019d0c7",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -3978,7 +3928,7 @@
             }
         },
         {
-            "id": "",
+            "id": "bed9f0f3-817d-40ec-ac12-04c21064aa4d",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4003,7 +3953,7 @@
             }
         },
         {
-            "id": "",
+            "id": "b8aa16ad-aa74-4460-adfd-1118b67b460b",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4028,7 +3978,7 @@
             }
         },
         {
-            "id": "",
+            "id": "1ad2f1e7-8e72-4be3-bbd2-963a9942db5d",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4053,7 +4003,7 @@
             }
         },
         {
-            "id": "",
+            "id": "c226aad6-692a-4f1a-916d-c52c8fa81d5f",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4078,7 +4028,7 @@
             }
         },
         {
-            "id": "",
+            "id": "585cf8f9-51ae-49e1-955d-18557604e7be",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4103,7 +4053,7 @@
             }
         },
         {
-            "id": "",
+            "id": "15ad76c1-b6f0-4337-93d7-cc0e639b33ff",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4128,7 +4078,7 @@
             }
         },
         {
-            "id": "",
+            "id": "0ded21be-f0ea-4f1c-afa2-52483f1e7e30",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4153,7 +4103,7 @@
             }
         },
         {
-            "id": "",
+            "id": "3566da0a-846e-45df-b08c-eaedb9da47b0",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4178,7 +4128,7 @@
             }
         },
         {
-            "id": "",
+            "id": "0d831b38-fc10-4648-9c3e-68451beb2315",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4203,7 +4153,7 @@
             }
         },
         {
-            "id": "",
+            "id": "9c346fa5-67e0-4828-bfd2-d2931da2d2d2",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4228,7 +4178,7 @@
             }
         },
         {
-            "id": "",
+            "id": "3b2d2e2b-fedd-48e6-b5e6-e5daa5477fe5",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4278,7 +4228,7 @@
             }
         },
         {
-            "id": "",
+            "id": "227d52af-04f4-4831-9985-8a6d8337a3f4",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4303,7 +4253,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d2878aa9-ea78-4085-9e85-63c33de7ab74",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4328,7 +4278,7 @@
             }
         },
         {
-            "id": "",
+            "id": "f9129402-9f8c-43fa-882a-ae2fd3c1cf53",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4353,7 +4303,7 @@
             }
         },
         {
-            "id": "",
+            "id": "eabb4b7d-8cb5-42a0-bf9b-86f2ee2e4d4a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4403,7 +4353,7 @@
             }
         },
         {
-            "id": "",
+            "id": "56834afe-6095-46c1-84cc-d3548de4a7e9",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4428,7 +4378,7 @@
             }
         },
         {
-            "id": "",
+            "id": "0def608c-a763-4b22-96d3-5a4e03afa36c",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4478,7 +4428,7 @@
             }
         },
         {
-            "id": "",
+            "id": "2a4c82bb-9a86-49a6-919b-e18fff83c708",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4503,7 +4453,7 @@
             }
         },
         {
-            "id": "",
+            "id": "83ca4e72-3a8b-4bb2-aafd-f8ee05b74847",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4528,7 +4478,7 @@
             }
         },
         {
-            "id": "",
+            "id": "fd5ccfb1-b85a-4bf0-a653-f419421e70f9",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4553,7 +4503,7 @@
             }
         },
         {
-            "id": "",
+            "id": "55816736-8615-4f5d-9eb0-7ad155decc0b",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4578,7 +4528,7 @@
             }
         },
         {
-            "id": "",
+            "id": "cfa0490a-0b54-4116-9d8d-f96166f8c819",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4603,7 +4553,7 @@
             }
         },
         {
-            "id": "",
+            "id": "2d467cae-3fd1-427e-ba47-0485903abb2e",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4653,7 +4603,7 @@
             }
         },
         {
-            "id": "",
+            "id": "307b1132-bdb5-44d7-864b-9cf51ebbb4a9",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4703,7 +4653,7 @@
             }
         },
         {
-            "id": "",
+            "id": "3f8f58c4-f0df-4374-93e7-18393acd44be",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4728,7 +4678,7 @@
             }
         },
         {
-            "id": "",
+            "id": "4955fab9-b658-4caa-90db-5bb70b27c6a5",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4753,7 +4703,7 @@
             }
         },
         {
-            "id": "",
+            "id": "34764762-4689-4589-a80d-f8098d6aab63",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4778,7 +4728,7 @@
             }
         },
         {
-            "id": "",
+            "id": "e08ac143-9f6f-428d-822b-6e31aaf0b7cc",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4803,7 +4753,7 @@
             }
         },
         {
-            "id": "",
+            "id": "931d2021-cdb3-4684-b8cf-d8b50e9a9f1b",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4828,7 +4778,7 @@
             }
         },
         {
-            "id": "",
+            "id": "ba41abd4-60de-4df5-8786-5983c11150cb",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4853,7 +4803,7 @@
             }
         },
         {
-            "id": "",
+            "id": "c29adf20-8988-400d-bb5e-8ee70d959bcd",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4878,7 +4828,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d5288129-98cb-42d8-9965-f094e5a0d2ef",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4903,7 +4853,7 @@
             }
         },
         {
-            "id": "",
+            "id": "152bb9d2-2296-4c35-8413-59c81cfef02d",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4928,7 +4878,7 @@
             }
         },
         {
-            "id": "",
+            "id": "be6543e6-f091-4029-8525-2ab4d0cb9935",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4953,7 +4903,7 @@
             }
         },
         {
-            "id": "",
+            "id": "99570645-f631-415b-9619-c69851ea6e97",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -4978,7 +4928,7 @@
             }
         },
         {
-            "id": "",
+            "id": "f6839489-7a4b-4fe7-89bd-b3e2038280bb",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -5003,7 +4953,7 @@
             }
         },
         {
-            "id": "",
+            "id": "60cb1653-db86-4547-82c0-513043b47acd",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -5028,7 +4978,7 @@
             }
         },
         {
-            "id": "",
+            "id": "59114918-7b67-4f32-b818-d37bbe8e9882",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -5053,7 +5003,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d2f3d7dc-7ff4-441e-8a0c-e551c9dcca1c",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -5078,7 +5028,7 @@
             }
         },
         {
-            "id": "",
+            "id": "9402dda7-e914-4f2b-ba8e-d1e184a8c55a",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -5103,7 +5053,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d7c03558-6027-4f02-a5f1-b3ece647610d",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -5128,7 +5078,7 @@
             }
         },
         {
-            "id": "",
+            "id": "d7c03558-6027-4f02-a5f1-b3ece647610d",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -5153,7 +5103,7 @@
             }
         },
         {
-            "id": "",
+            "id": "66d2f37f-2d1a-4a09-abe5-82f3fc872aeb",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -5403,7 +5353,7 @@
             }
         },
         {
-            "id": "",
+            "id": "3cdbd4c2-54ed-4723-a30d-6f3cb3e9ed6e",
             "type": "Feature",
             "geometry": {
                 "type": "Point",
